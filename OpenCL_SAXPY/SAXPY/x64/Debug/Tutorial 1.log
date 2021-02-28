@@ -1,0 +1,8 @@
+﻿  Tutorial 1.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+E:\Program_Practise\OpenCL-Tutorials-master_new\OpenCL-Tutorials-master\Tutorial 1\Tutorial 1.cpp(32,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Program_Practise\OpenCL-Tutorials-master_new\OpenCL-Tutorials-master\Tutorial 1\Tutorial 1.cpp(33,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Program_Practise\OpenCL-Tutorials-master_new\OpenCL-Tutorials-master\Tutorial 1\Tutorial 1.cpp(60,35): warning C4996: 'clCreateCommandQueue': was declared deprecated
+  Tutorial 1.vcxproj -> E:\Program_Practise\OpenCL-Tutorials-master_new\OpenCL-Tutorials-master\x64\Debug\Tutorial 1\Tutorial 1.exe
+  kernels\my_kernels.cl
+  1 File(s) copied

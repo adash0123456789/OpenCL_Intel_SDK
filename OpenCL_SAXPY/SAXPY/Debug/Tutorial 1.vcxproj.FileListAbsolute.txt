@@ -1,0 +1,4 @@
+E:\Program_Practise\OpenCL_exp_Intel_SDK\SAXPY\Debug\Tutorial 1.exe
+E:\Program_Practise\OpenCL_exp_Intel_SDK\SAXPY\Debug\Tutorial 1.pdb
+E:\Program_Practise\OpenCL_Intel_SDK\OpenCL_SAXPY\SAXPY\Debug\Tutorial 1.exe
+E:\Program_Practise\OpenCL_Intel_SDK\OpenCL_SAXPY\SAXPY\Debug\Tutorial 1.pdb
